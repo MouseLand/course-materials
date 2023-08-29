@@ -2,9 +2,9 @@
 
 ### [Behavioral encoding models of neural population activity](behavior_encoding/)
 
-Student notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/rastermap/blob/main/notebooks/tutorial.ipynb)
+Student notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/course-content/blob/main/notebooks/tutorial.ipynb)
 
-Instructor notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/rastermap/blob/main/notebooks/tutorial_solutions.ipynb)
+Instructor notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/course-content/blob/main/notebooks/tutorial_solutions.ipynb)
 
 We will use a spontaneous activity recording from [Syeda et al, 2023](https://www.biorxiv.org/content/10.1101/2022.11.03.515121v1.abstract). We recorded 34,086 neurons from mouse sensorimotor cortex for 2+ hours using two-photon calcium imaging at a rate of 3.2Hz. In the notebook, we will build several encoding models of neural activity based on the orofacial behaviors of mice. The encoding models are increasingly more complicated:
 
