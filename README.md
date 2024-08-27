@@ -1,26 +1,5 @@
 # course-content
 
-## Installing locally:
-
-If you are using a GPU, make sure its drivers and the cuda libraries are correctly installed.
-
-1. Install a [miniforge](https://github.com/conda-forge/miniforge) distribution of Python. Note you might need to use an anaconda prompt if you did not add anaconda to the path.
-2. Open an anaconda prompt / command prompt which has `conda` for **python 3** in the path
-3. Create a new environment with `conda create --name mouseland python=3.10`.
-4. To activate this new environment, run `conda activate mouseland`
-5. Install jupyter notebook with `python -m pip install notebook`.
-6. In this terminal, run `jupyter-notebook` to open a jupyter notebook in your browser.
-
-Now you can download the notebooks and open them there.
-
-If you'd like to try out the GUI version of cellpose or rastermap, you can install them with the following commands:
-~~~sh
-python -m pip install cellpose[gui]
-python -m pip install rastermap[gui]
-~~~
-
-Use "" around "cellpose[gui]" if on zsh. Note you will always have to run `conda activate mouseland` before you run cellpose or rastermap.
-
 ### [Cellpose segmentation and signal extraction for calcium imaging data](cellpose_extraction/)
 
 Student notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/course-materials/blob/main/cellpose_extraction/tutorial.ipynb)
@@ -46,5 +25,26 @@ We will use a spontaneous activity recording from [Syeda et al, 2023](https://ww
 3. nonlinear regression (i.e. neural networks) from spatiotemporal keypoints
 
 We will use [rastermap](https://github.com/mouseland/rastermap) to visualize the neural activity, and also to visualize the prediction.
+
+# Installing locally:
+
+If you are using a GPU, make sure its drivers and the cuda libraries are correctly installed.
+
+1. Install a [miniforge](https://github.com/conda-forge/miniforge) distribution of Python. Note you might need to use an anaconda prompt if you did not add anaconda to the path.
+2. Open an anaconda prompt / command prompt which has `conda` for **python 3** in the path
+3. Create a new environment with `conda create --name mouseland python=3.10`.
+4. To activate this new environment, run `conda activate mouseland`
+5. Install jupyter notebook with `python -m pip install notebook`.
+6. In this terminal, run `jupyter-notebook` to open a jupyter notebook in your browser.
+
+Now you can download the notebooks and open them there.
+
+If you'd like to try out the GUI version of cellpose or rastermap, you can install them with the following commands:
+~~~sh
+python -m pip install cellpose[gui]
+python -m pip install rastermap[gui]
+~~~
+
+Use "" around "cellpose[gui]" if on zsh. Note you will always have to run `conda activate mouseland` before you run cellpose or rastermap.
 
 
