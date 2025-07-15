@@ -4,7 +4,7 @@
 
 **Instructor notebook -->** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) 
 
-**By Fengtong Du and Carsen Stringer**
+**By Fengtong(Farah) Du and Carsen Stringer**
 
 In this tutorial, we will build predictive models of V1 neural activity from visual stimuli (natural images). The predictive models are:
 
