@@ -2,7 +2,7 @@
 
 **Student notebook -->** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/course-materials/blob/main/visual_models/tutorial_minimodel.ipynb)
 
-**Instructor notebook -->** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](...) 
+**Instructor notebook -->** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/course-materials/blob/main/visual_models/tutorial_minimodel_solutions.ipynb) 
 
 **By Fengtong(Farah) Du and Carsen Stringer**
 
