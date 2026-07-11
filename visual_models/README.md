@@ -1,8 +1,10 @@
 # 🧠 Building simplified models of primary visual cortex (V1) 🐭 🐵
 
-**Student notebook -->** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/course-materials/blob/main/visual_models/tutorial_minimodel.ipynb)
+**Student notebook -->** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/course-materials/blob/main/visual_models/tutorial_minimodel_cshl.ipynb)
 
 **Instructor notebook -->** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/course-materials/blob/main/visual_models/tutorial_minimodel_solutions.ipynb) 
+
+**Student notebook from Cajal -->** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/course-materials/blob/main/visual_models/tutorial_minimodel.ipynb)
 
 **By Fengtong(Farah) Du and Carsen Stringer**
 
